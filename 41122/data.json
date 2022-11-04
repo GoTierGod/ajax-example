@@ -1,0 +1,9 @@
+{
+    "firstname": "John",
+    "lastname": "Doe",
+    "age": 27,
+    "salary": 2400,
+    "months": 19,
+    "country": "USA",
+    "city": "New York"
+}
